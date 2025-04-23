@@ -100332,7 +100332,7 @@ A.tj.prototype={}
 A.xx.prototype={
 J(a){var s=t.gh
 return A.rk(A.ri(new A.alx(this),s,t.uF),new A.aly(),s)},
-abK(a,b){var s=null,r=A.dl(40),q=A.dl(24),p=A.aWg("card_layouts/"+B.a9O.d9(0,B.pH.E5(14)),s,s,s),o=A.nm(0,A.aUu(B.eu,new A.alq(),u.B,new A.alr()),s,s,0,s,0,s),n=a.d,m=n==null,l=m?s:n.c,k=m?s:n.b
+abK(a,b){var s=null,r=A.dl(40),q=A.dl(24),p=A.aWg("assets/card_layouts/"+B.a9O.d9(0,B.pH.E5(14)),s,s,s),o=A.nm(0,A.aUu(B.eu,new A.alq(),u.B,new A.alr()),s,s,0,s,0,s),n=a.d,m=n==null,l=m?s:n.c,k=m?s:n.b
 n=m?s:n.d
 if(n==null)n=""
 n=A.bm(A.j(l)+" "+A.j(k)+" "+n,s,s,s,B.aO,s,s,s)
@@ -100786,7 +100786,7 @@ s.toString
 this.Gl(s)
 this.bf()},
 J(a){return A.Hf(!0,new A.n0(new A.aAQ(this),null),!0,B.ae,!0,!0)},
-abT(a,b,c){var s="images/main_logo.svg",r=null,q=A.ayh(s,B.i0),p=t.p
+abT(a,b,c){var s="assets/images/main_logo.svg",r=null,q=A.ayh(s,B.i0),p=t.p
 q=A.acH(A.a([new A.et(new A.aAL(),r)],p),B.k,10,new A.bi(B.m7,q,r),230,B.X,B.y,r,80)
 p=A.a([new A.SQ(new A.bi(B.RH,A.ayh(s,B.i0),r),r)],p)
 B.b.H(p,new A.tA(b,A.X(b).h("tA<1>")).gel().hQ(0,new A.aAM(a,c),t.l7))
@@ -100805,7 +100805,7 @@ if(k>=1260){k=this.a
 k=k.ac8(k.a.c,a,A.a(["\u0413\u043b\u0430\u0432\u043d\u0430\u044f","\u0427\u0430\u0442","\u041a\u0430\u043b\u0435\u0434\u0430\u0440\u044c \u0432\u0441\u0442\u0440\u0435\u0447","\u0423\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u044f"],t.s),k.gUy())}else{s=this.a
 r=s.gUy()
 if(k>=600){k=s.a.c
-q=A.acH(l,B.k,10,new A.bi(B.m7,A.ayh("images/main_logo.svg",B.i0),l),230,B.X,B.y,l,80)
+q=A.acH(l,B.k,10,new A.bi(B.m7,A.ayh("assets/images/main_logo.svg",B.i0),l),230,B.X,B.y,l,80)
 p=s.LA$
 o=p?l:250
 n=p?B.n8:l
@@ -100842,7 +100842,7 @@ this.b.$1(this.c.a)},
 $S:0}
 A.aI4.prototype={}
 A.aLZ.prototype={
-ac8(a,b,c,d){var s=null,r=A.ayh("images/main_logo.svg",B.i0),q=A.dD(s,A.cS(new A.tA(c,A.X(c).h("tA<1>")).gel().hQ(0,new A.aM0(d),t.kE).ez(0),B.A,B.jT,B.F,0,s),B.w,s,B.Ly,s,s,s,s,s,s,s,s)
+ac8(a,b,c,d){var s=null,r=A.ayh("assets/images/main_logo.svg",B.i0),q=A.dD(s,A.cS(new A.tA(c,A.X(c).h("tA<1>")).gel().hQ(0,new A.aM0(d),t.kE).ez(0),B.A,B.jT,B.F,0,s),B.w,s,B.Ly,s,s,s,s,s,s,s,s)
 return A.z_(A.acH(this.at3(b),B.k,10,new A.bi(B.m7,r,s),230,B.X,B.y,new A.bi(B.RD,q,s),80),B.k,a,s)},
 at3(a){return A.a([new A.bi(B.RC,A.TS(B.ao,B.Ti,24,new A.aM1(a),B.LM),null)],t.p)}}
 A.aM0.prototype={
